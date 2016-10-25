@@ -24,3 +24,4 @@ CONSUMER_SECRET = 'anonymous'
 TEMPLATE_DIRS = (
     os.path.join(os.path.dirname(__file__), "templates"),
     )
+SECRET_KEY = "tpaas"
