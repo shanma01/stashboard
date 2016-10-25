@@ -1,6 +1,6 @@
 import os
 
-DEBUG = False
+DEBUG = True
 
 SITE_NAME = "Stashboard"
 SITE_AUTHOR = "Colonel Mustache"
